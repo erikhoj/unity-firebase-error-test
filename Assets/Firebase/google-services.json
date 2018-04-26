@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671325583259",
+    "firebase_url": "https://project-swing-75126199.firebaseio.com",
+    "project_id": "project-swing-75126199",
+    "storage_bucket": "project-swing-75126199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671325583259:android:0ea8d0e3758c8605",
+        "android_client_info": {
+          "package_name": "com.mindfoxstudios.projectswing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671325583259-amai8h7dm8glqk7rhni6ulc3vm5q4qj9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "671325583259-8tadukb0cr2hgpfidcljbshn3l3cthd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindfoxstudios.projectswing",
+            "certificate_hash": "a6cb0bf28f293bc4eb577713d6a3da065f709f11"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdcB_0cYPyiy2c4ekA8HT8Jba45TMwrP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671325583259-amai8h7dm8glqk7rhni6ulc3vm5q4qj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
